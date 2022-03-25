@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## My name is Dom, a Software Engineer.
-## My goal is to make life easier for people, with code.
+## My name is Dom, and I'm a Software Engineer. My goal is to make life easier for people, with code.
 
 - 😄 Pronouns: He/Him.
 - 🌱 I’m currently learning ways to improve my JavaScript and CSS skills!
