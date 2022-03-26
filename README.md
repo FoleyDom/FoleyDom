@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-## My name is Dom, and I'm a Software Engineer. 
+## Hi there, I go by Dom, I'm a Software Engineer based around Scranton PA. 
 ### My goal is to make life easier for people, with code.
 
 - 😄 Pronouns: He/Him.
