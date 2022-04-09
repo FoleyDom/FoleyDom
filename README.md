@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
-<h2>Hi there, I go by Dom, I'm a Software Engineer based around Scranton, PA.</h2> 
+<h2 align='center'>Hi there, I go by Dom. <br />
+  I'm a Software Engineer.</h2> 
 <h3 align="center" >My goal is to make life easier for people, with code.</h3>
 
 
