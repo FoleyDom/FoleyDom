@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/Q6ekjBO.png" width="100%">
 <p align="center">
   <a href="https://domfoleydev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://domfoleydev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
