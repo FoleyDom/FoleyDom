@@ -4,11 +4,14 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
   </a>
   <a href="https://twitter.com/FoleyDom_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic" alt="Twitter Badge">
   </a>
+  <a href="https://angel.co/u/domfoley" target="_blank">
+    <img src="https://img.shields.io/badge/AngelList-000?logo=angellist&logoColor=fff&style=plastic" alt="AngelList Badge">
+  </a>  
 </p>
 <h2 align='center'>Hi there, I go by Dom. <br />
   I'm a Software Engineer.</h2> 
@@ -26,20 +29,23 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=plastic" alt="Ruby Badge">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge">
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=plastic" alt="Java Badge">
+<img src="https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=plastic" alt="AWS Amplify Badge">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge">
+<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic" alt="Linux Badge">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic" alt="Ubuntu Badge">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic" alt="GitHub Badge">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge">
 </p>
 
 <p align="center"><img align='center' src='https://github-readme-streak-stats.herokuapp.com?user=FoleyDom&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D' alt='FoleyDom' /></p>
@@ -53,12 +59,16 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
   </a>
   <a href="https://twitter.com/FoleyDom_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic" alt="Twitter Badge">
   </a>
+  <a href="https://angel.co/u/domfoley" target="_blank">
+    <img src="https://img.shields.io/badge/AngelList-000?logo=angellist&logoColor=fff&style=plastic" alt="AngelList Badge">
+  </a>  
 <!--   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
+
