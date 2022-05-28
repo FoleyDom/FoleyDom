@@ -23,6 +23,11 @@
 - 📫 How to reach me: dfoleydev@gmail.com
 - ⚡ Fun fact: I built my first PC during the pandemic. 
 
+<h3 align="center">Current Codewars Rank</h3>
+<p align="center">
+  <img src="https://www.codewars.com/users/FoleyDom/badges/large"/>
+</p>
+
 
 
 <h1 align="center">Technologies</h1>
