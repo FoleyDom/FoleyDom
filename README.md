@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Q6ekjBO.png" width="100%">
 <p align="center">
-  <a href="https://foleydom.github.io/portfolio2022/" target="_blank">
+  <a href="https://domfoleydev.vercel.app/" target="_blank">
     <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <a href="https://foleydom.github.io/portfolio2022/" target="_blank">
+  <a href="https://domfoleydev.vercel.app/" target="_blank">
     <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
