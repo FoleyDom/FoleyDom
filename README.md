@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Q6ekjBO.png" width="100%">
 <p align="center">
-  <a href="https://domfoleydev.vercel.app/" target="_blank">
+  <a href="https://domfoley.dev/" target="_blank">
     <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <a href="https://domfoleydev.vercel.app/" target="_blank">
+  <a href="https://domfoley.dev/" target="_blank">
     <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
   </a>
   <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
