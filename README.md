@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/PHP-1572B6?logo=php&logoColor=fff&style=plastic" alt="PHP Badge">
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=plastic" alt="Ruby Badge">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge">
