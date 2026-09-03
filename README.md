@@ -6,7 +6,7 @@
 
 I build web products end to end — typed PHP/Laravel and Go APIs, React/Next.js front ends, and the CI/CD-driven Docker + AWS infrastructure that ships them. Started through the 100Devs bootcamp in 2022 and spent the last 3+ years turning that into production experience, most recently on a high-traffic e-commerce platform (600K+ users) at **Best Cigar Prices**.
 
-- 🛠️ Outside work: always updating [Cashtrakd](https://cashtrakd.com/), writing monthly-ish, and slowly over-engineering a home lab
+- 🛠️ Outside work: always updating side projects, writing monthly-ish, and slowly over-engineering a home lab
 - 📫 Reach me at **domfoley.dev@gmail.com**
 
 ## 📈 Recent Impact
