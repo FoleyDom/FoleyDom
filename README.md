@@ -1,80 +1,34 @@
-<img src="https://i.imgur.com/Q6ekjBO.png" width="100%">
-<p align="center">
-  <a href="https://domfoley.dev/" target="_blank">
-    <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
-  </a>
-  <a href="https://twitter.com/FoleyDom_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic" alt="Twitter Badge">
-  </a>
-  <a href="https://angel.co/u/domfoley" target="_blank">
-    <img src="https://img.shields.io/badge/AngelList-000?logo=angellist&logoColor=fff&style=plastic" alt="AngelList Badge">
-  </a>  
-</p>
-<h2 align='center'>Hi there, I go by Dom. <br />
-  I'm a Software Engineer.</h2> 
-<h3 align="center" >My goal is to make life easier for people, with code.</h3>
+# Hi, I'm Dom Foley 👋
 
+### Full-Stack Developer && DevOps Engineer
 
-- 😄 Pronouns: He/Him.
-- 🌱 I’m currently learning ways to improve my JavaScript and CSS skills!
-- 📫 How to reach me: dfoleydev@gmail.com
-- ⚡ Fun fact: I built my first PC during the pandemic. 
+[![Portfolio](https://img.shields.io/badge/Portfolio-domfoley.com-8A2BE2?style=plastic&logo=rss&logoColor=white)](https://domfoley.com/) [![Resume](https://img.shields.io/badge/Resume-PDF-23555f?style=plastic&logo=googledocs&logoColor=white)](https://www.domfoley.com/resume/Dom-Foley-Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domfoley/) [![Email](https://img.shields.io/badge/Email-domfoley.dev%40gmail.com-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:domfoley.dev@gmail.com) ![Open to Work](https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20%2F%20DevOps-brightgreen?style=plastic)
 
-<h3 align="center">Current Codewars Rank</h3>
-<p align="center">
-  <img src="https://www.codewars.com/users/FoleyDom/badges/large"/>
-</p>
+I build web products end to end — typed PHP/Laravel and Go APIs, React/Next.js front ends, and the CI/CD-driven Docker + AWS infrastructure that ships them. Started through the 100Devs bootcamp in 2022 and spent the last 3+ years turning that into production experience, most recently on a high-traffic e-commerce platform (600K+ users) at **Best Cigar Prices**.
 
+- 🛠️ Outside work: always updating [Cashtrakd](https://cashtrakd.com/), writing monthly-ish, and slowly over-engineering a home lab
+- 📫 Reach me at **domfoley.dev@gmail.com**
 
+## 📈 Recent Impact
 
-<h1 align="center">Technologies</h1>
+- Designed and shipped full-stack features — including the current Rewards Program — across the LAPP stack (Linux, Apache, PostgreSQL, PHP), supporting **200,000+** production users
+- Stood up Docker and Kubernetes environments on AWS, cutting release time by **up to 35%**
+- Refactored the company's in-house receiving software, improving page-load time by **209%** and total items received by **42%**
+- Wrote AWS CLI automation for deployments and backups, saving the team **~5 hours/week**
 
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
-<img src="https://img.shields.io/badge/PHP-1572B6?logo=php&logoColor=fff&style=plastic" alt="PHP Badge">
-<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=plastic" alt="Ruby Badge">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" alt="React Badge">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge">
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=plastic" alt="Java Badge">
-<img src="https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=plastic" alt="AWS Amplify Badge">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge">
-<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic" alt="Linux Badge">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic" alt="Ubuntu Badge">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic" alt="GitHub Badge">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge">
-</p>
+**[Cashtrakd](https://cashtrakd.com/) — Continuous Budget App** Personal budgeting app built on Laravel and Next.js; containerizing with Docker for Kubernetes deployment (in progress). `PHP 8.4` `Laravel 12` `Next.js` `PostgreSQL` `Docker` `Kubernetes`
 
-<p align="center"><img align='center' src='https://github-readme-streak-stats.herokuapp.com?user=FoleyDom&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D' alt='FoleyDom' /></p>
+## 🧰 Tech Stack
 
-<h1 align="center">Connect</h1>
+**Languages** — PHP · JavaScript · TypeScript · Go
+**Frameworks** — Laravel · CodeIgniter · Next.js
+**Cloud & DevOps** — AWS · Docker · Kubernetes · Terraform · Linux · PostgreSQL
+**Tools** — Git · CI/CD (GitHub Actions)
 
+<p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic" alt="PHP Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic" alt="Go Badge"> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic" alt="Laravel Badge"> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=plastic" alt="CodeIgniter Badge"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic" alt="Next.js Badge"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic" alt="AWS Badge"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker Badge"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=plastic" alt="Kubernetes Badge"> <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=plastic" alt="Terraform Badge"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic" alt="Linux Badge"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge"> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=fff&style=plastic" alt="CI/CD Badge"> </p>
 
+---
 
-<p align="center">
-  <a href="https://domfoley.dev/" target="_blank">
-    <img src="https://badgen.net/badge/icon/Portfolio/purple?icon=rss&label"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dominiquefoley/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn Badge">
-  </a>
-  <a href="https://twitter.com/FoleyDom_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic" alt="Twitter Badge">
-  </a>
-  <a href="https://angel.co/u/domfoley" target="_blank">
-    <img src="https://img.shields.io/badge/AngelList-000?logo=angellist&logoColor=fff&style=plastic" alt="AngelList Badge">
-  </a>  
-<!--   <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
-</p>
-
+**Let's connect** — [Portfolio](https://domfoley.com/) · [Resume](https://www.domfoley.com/resume/Dom-Foley-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/domfoley/) · [Email](mailto:domfoley.dev@gmail.com)
