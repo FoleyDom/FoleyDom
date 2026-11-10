@@ -6,7 +6,7 @@
 
 I build web products end to end — typed PHP/Laravel and Go APIs, React/Next.js front ends, and the CI/CD-driven Docker + AWS infrastructure that ships them. Started through the 100Devs bootcamp in 2022 and spent the last 3+ years turning that into production experience, most recently on a high-traffic e-commerce platform (600K+ users) at **Best Cigar Prices**.
 
-- 🛠️ Outside work: always updating side projects, writing monthly-ish, and slowly over-engineering a home lab
+- 🛠️ Outside work: always updating [Cashtrakd](https://cashtrakd.com/), writing monthly-ish, and slowly over-engineering a home lab
 - 📫 Reach me at **domfoley.dev@gmail.com**
 
 ## 📈 Recent Impact
@@ -18,7 +18,9 @@ I build web products end to end — typed PHP/Laravel and Go APIs, React/Next.js
 
 ## 🚀 Featured Projects
 
-**[Cashtrakd](https://cashtrakd.com/) — Continuous Budget App** Personal budgeting app built on Laravel and Next.js; containerizing with Docker for Kubernetes deployment (in progress). `PHP 8.4` `Laravel 12` `Next.js` `PostgreSQL` `Docker` `Kubernetes`
+**[EasyScores](https://easyscores.laravel.cloud/) — Mobile-First Sports Tracker** Live scores, standings, and favorite-team views for the NBA, NFL, and MLB, designed, built, and deployed solo. ESPN data sits behind a provider-agnostic interface, with game-state-aware caching, cache locking, and a last-known-good fallback so the app stays up when the upstream API doesn't. Check out the [Write-up](https://www.domfoley.com/writings/easyscores-a-scoreboard-that-leads-with-the-score). `Laravel 13` `Inertia` `React 19` `TypeScript` `Tailwind CSS v4` `Laravel Cloud`
+
+**[Cashtrakd](https://cashtrakd.com/) — Continuous Budget App** Personal budgeting app built on Laravel and Next.js; containerizing with Docker for Kubernetes deployment (in progress). `PHP 8.4` `Laravel 13` `Next.js` `PostgreSQL` `Docker` `Kubernetes`
 
 ## 🧰 Tech Stack
 
